@@ -12,14 +12,5 @@
 
 ## Screenshots
 > SplashScreen with animation
-
-
-
-
-
-
-
-
-
-
-
+>
+> ![ezgif com-video-to-gif-converted](https://github.com/tghule/My_Cart/assets/49650222/de10ff2e-f96b-4167-b7a2-e4e90a86b841)
