@@ -40,6 +40,19 @@
 <img  width="auto" height="500" alt="EverShop Logo"  src="https://github.com/tghule/My_Cart/assets/49650222/7ddcb7bb-9e2f-4eb8-9e76-c670bda32cf4"/>
 <img  width="auto" height="500" alt="EverShop Logo"  src="https://github.com/tghule/My_Cart/assets/49650222/27beb86b-26e3-4348-8de0-edf9040ef099"/>
 
+##
+> Update / Delete User 
+<img  width="auto" height="500" alt="EverShop Logo"  src="https://github.com/tghule/My_Cart/assets/49650222/b3cc67f8-6690-4127-bdf5-afa32a2ef70d"/>
+<img  width="auto" height="500" alt="EverShop Logo"  src="https://github.com/tghule/My_Cart/assets/49650222/86b88e05-b1d3-42dc-861d-e58360f1171f"/>
+
+##
+> Custom Filters and sorting
+<img  width="auto" height="500" alt="EverShop Logo"  src="https://github.com/tghule/My_Cart/assets/49650222/a843047e-7af9-4d47-ba82-e360c1adbc95"/>
+<img  width="auto" height="500" alt="EverShop Logo"  src="https://github.com/tghule/My_Cart/assets/49650222/2cdb1713-1de9-4610-9fc9-2c4993222dfd"/>
+
+##
+> Add User
+<img  width="auto" height="500" alt="EverShop Logo"  src="https://github.com/tghule/My_Cart/assets/49650222/505c7dd6-30e5-4654-9fa9-8b5977cf525d"/>
 
 
 
