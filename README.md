@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><u>"My Cart"</u></b> is a simple ecommerce platform with essential commerce features. Built with the help of <b>Angular, Ionic Framework and Firebase service</b> with admin pannel.
 
 ## Screenshots
-> Authentication
+> SplashScreen with animation
 
 
 
