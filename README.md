@@ -22,4 +22,11 @@
 > Registration
 <img  width="auto" height="500" alt="EverShop Logo"  src="https://github.com/tghule/My_Cart/assets/49650222/a3476b52-89ab-4c6b-80ac-0b5734ba6395"/>
 <img  width="auto" height="500" alt="EverShop Logo"  src="https://github.com/tghule/My_Cart/assets/49650222/be7a91ea-fc37-4ab1-8707-ec6226adb305"/>
+<img  width="auto" height="500" alt="EverShop Logo"  src="https://github.com/tghule/My_Cart/assets/49650222/9ff77881-d592-41ec-9dc6-5bbc2fa37fd2"/>
+<img  width="auto" height="500" alt="EverShop Logo"  src="https://github.com/tghule/My_Cart/assets/49650222/b92bb374-791c-4b7e-a1a5-4f76671d7100"/>
+
+##
+> Two Factor Authentication
+<img  width="auto" height="500" alt="EverShop Logo"  src="https://github.com/tghule/My_Cart/assets/49650222/4657e019-dae7-4b41-aacc-3a31813747e7"/>
+
 
