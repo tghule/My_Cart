@@ -17,3 +17,9 @@
 ##
 > Login Page
 <img  width="auto" height="500" alt="EverShop Logo"  src="https://github.com/tghule/My_Cart/assets/49650222/0b3a7b64-d147-49e3-8ddb-177681282aba"/>
+
+##
+> Registration
+<img  width="auto" height="500" alt="EverShop Logo"  src="https://github.com/tghule/My_Cart/assets/49650222/a3476b52-89ab-4c6b-80ac-0b5734ba6395"/>
+<img  width="auto" height="500" alt="EverShop Logo"  src="https://github.com/tghule/My_Cart/assets/49650222/be7a91ea-fc37-4ab1-8707-ec6226adb305"/>
+
