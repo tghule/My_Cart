@@ -30,12 +30,10 @@
 <img  width="auto" height="500" alt="EverShop Logo"  src="https://github.com/tghule/My_Cart/assets/49650222/4657e019-dae7-4b41-aacc-3a31813747e7"/>
 <img  width="auto" height="500" alt="EverShop Logo"  src="https://github.com/tghule/My_Cart/assets/49650222/aab10986-c3f7-440f-adfe-bddd737e7fc5"/>
 
-
 ##
-> Profile Selection
+## > Profile Selection
 <img  width="auto" height="500" alt="EverShop Logo"  src="https://github.com/tghule/My_Cart/assets/49650222/e8499e16-bc90-4cca-a2a2-195158b0e819"/>
-<img  width="auto" height="500" alt="EverShop Logo"  src="https://github.com/tghule/My_Cart/assets/49650222/c0a14442-54c2-46bc-9ed4-57601563719c"/>
-
+<img  width="auto" height="500" alt="EverShop Logo"  src="https://github.com/tghule/My_Cart/assets/49650222/f80c5331-8793-40b9-a643-8027d619bea7"/>
 
 
 
