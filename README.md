@@ -56,7 +56,7 @@
 
 ##
 > <p>
-  Product / Categories
+  Product / Categories and more ...
 </p>
     -- Under developement
 
